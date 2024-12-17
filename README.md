@@ -19,6 +19,8 @@ terraform-multi-cloud/
 ├── README.md                 # Project documentation
 └── .gitignore                # Ignore sensitive files and state files
 
+```
+
 ## Usage
 1. Initialize Terraform:
    ```bash
