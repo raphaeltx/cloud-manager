@@ -23,6 +23,6 @@ terraform-multi-cloud/
 
 ## Usage
 
-- Initialize Terraform:
-   ```bash
+Initialize Terraform:
+```bash
    terraform init
